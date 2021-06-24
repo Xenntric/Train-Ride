@@ -1,0 +1,17 @@
+Adobe After Effects v15.0 Windows 64 render log for project “sprite0_comp.aep”
+
+Rendering started on 05/04/2020 at 02:59:50
+
+  05/04/2020 02:59:50: Starting composition “crawl”.
+
+  Output To: D:\WORK\L3 ExtDip\y2\FMP\character\spritesheets\crawl\crawl_[#####].png    05/04/2020 02:59:56: Finished composition “crawl”.
+
+
+  05/04/2020 02:59:56: Starting composition “crawl;idle”.
+
+  Output To: D:\WORK\L3 ExtDip\y2\FMP\character\spritesheets\crawl\crawl_idle\crawl;idle_[#####].png    05/04/2020 03:00:03: Finished composition “crawl;idle”.
+
+
+  Total Time Elapsed: 13 Seconds
+Log closed on 05/04/2020 at 03:00:03
+

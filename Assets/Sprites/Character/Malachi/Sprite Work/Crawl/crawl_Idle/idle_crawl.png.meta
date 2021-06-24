@@ -1,0 +1,3703 @@
+fileFormatVersion: 2
+guid: 26403be394449204a81d8cecbf26d973
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5709317046840224861
+    second: idle_crawl_0
+  - first:
+      213: 3680395658881534172
+    second: idle_crawl_1
+  - first:
+      213: -4564040886904564151
+    second: idle_crawl_2
+  - first:
+      213: -3836325663571791989
+    second: idle_crawl_3
+  - first:
+      213: -1507400046212712050
+    second: idle_crawl_4
+  - first:
+      213: 5227530865383226235
+    second: idle_crawl_5
+  - first:
+      213: 8498362813721453904
+    second: idle_crawl_6
+  - first:
+      213: -4895074497286564522
+    second: idle_crawl_7
+  - first:
+      213: 1024567317353433300
+    second: idle_crawl_8
+  - first:
+      213: 1192692315661481331
+    second: idle_crawl_9
+  - first:
+      213: -2616885037216256245
+    second: idle_crawl_10
+  - first:
+      213: 5666329359467920072
+    second: idle_crawl_11
+  - first:
+      213: 8566456451031411846
+    second: idle_crawl_12
+  - first:
+      213: -4487495511284417001
+    second: idle_crawl_13
+  - first:
+      213: 8476235834939633316
+    second: idle_crawl_14
+  - first:
+      213: 8506942846412298519
+    second: idle_crawl_15
+  - first:
+      213: 4702255888869143551
+    second: idle_crawl_16
+  - first:
+      213: 4311888788092371353
+    second: idle_crawl_17
+  - first:
+      213: -6972715687345303733
+    second: idle_crawl_18
+  - first:
+      213: 3392080869881181425
+    second: idle_crawl_19
+  - first:
+      213: 2294900364245260953
+    second: idle_crawl_20
+  - first:
+      213: -3267511230892750917
+    second: idle_crawl_21
+  - first:
+      213: -4323740993816029792
+    second: idle_crawl_22
+  - first:
+      213: -612264746453996164
+    second: idle_crawl_23
+  - first:
+      213: -6941878330810975324
+    second: idle_crawl_24
+  - first:
+      213: -2237161251013365005
+    second: idle_crawl_25
+  - first:
+      213: 1504649789831862363
+    second: idle_crawl_26
+  - first:
+      213: 1069264242014335031
+    second: idle_crawl_27
+  - first:
+      213: -2663781925574109977
+    second: idle_crawl_28
+  - first:
+      213: -3705194705678631057
+    second: idle_crawl_29
+  - first:
+      213: 4857587843175425793
+    second: idle_crawl_30
+  - first:
+      213: 7647281827403841658
+    second: idle_crawl_31
+  - first:
+      213: 7109529137150849715
+    second: idle_crawl_32
+  - first:
+      213: 6351303443145905058
+    second: idle_crawl_33
+  - first:
+      213: 4445694128156893180
+    second: idle_crawl_34
+  - first:
+      213: 2277512636489332416
+    second: idle_crawl_35
+  - first:
+      213: -6202810761815782725
+    second: idle_crawl_36
+  - first:
+      213: 4195754802011392534
+    second: idle_crawl_37
+  - first:
+      213: 5642997464734357541
+    second: idle_crawl_38
+  - first:
+      213: -2468468970500178921
+    second: idle_crawl_39
+  - first:
+      213: 8093486444353957806
+    second: idle_crawl_40
+  - first:
+      213: 6955783627169185463
+    second: idle_crawl_41
+  - first:
+      213: 1349285909818442876
+    second: idle_crawl_42
+  - first:
+      213: 7428704375409434568
+    second: idle_crawl_43
+  - first:
+      213: -4236459682948081133
+    second: idle_crawl_44
+  - first:
+      213: -8674117026017702165
+    second: idle_crawl_45
+  - first:
+      213: -826324136829033678
+    second: idle_crawl_46
+  - first:
+      213: -613977054289349685
+    second: idle_crawl_47
+  - first:
+      213: -6609039222252388129
+    second: idle_crawl_48
+  - first:
+      213: -5538559484692418507
+    second: idle_crawl_49
+  - first:
+      213: -3850011185011928988
+    second: idle_crawl_50
+  - first:
+      213: -8918102249360353613
+    second: idle_crawl_51
+  - first:
+      213: 8893343513908122607
+    second: idle_crawl_52
+  - first:
+      213: 7138765029945265907
+    second: idle_crawl_53
+  - first:
+      213: 1862399549550499311
+    second: idle_crawl_54
+  - first:
+      213: -6752953418388276182
+    second: idle_crawl_55
+  - first:
+      213: 1856925228939634582
+    second: idle_crawl_56
+  - first:
+      213: 1882310845360442390
+    second: idle_crawl_57
+  - first:
+      213: 7479526302037265397
+    second: idle_crawl_58
+  - first:
+      213: -2881368606983923691
+    second: idle_crawl_59
+  - first:
+      213: 2333323561834344885
+    second: idle_crawl_60
+  - first:
+      213: -2568233672522112991
+    second: idle_crawl_61
+  - first:
+      213: 7099259894715543070
+    second: idle_crawl_62
+  - first:
+      213: -6096789583384011098
+    second: idle_crawl_63
+  - first:
+      213: 1641336821726077310
+    second: idle_crawl_64
+  - first:
+      213: -1775260333331451448
+    second: idle_crawl_65
+  - first:
+      213: -6857687109129054289
+    second: idle_crawl_66
+  - first:
+      213: -4962870242914584071
+    second: idle_crawl_67
+  - first:
+      213: 1833877650952815147
+    second: idle_crawl_68
+  - first:
+      213: -5889185306239826301
+    second: idle_crawl_69
+  - first:
+      213: -484869619855702633
+    second: idle_crawl_70
+  - first:
+      213: 3504643884694587291
+    second: idle_crawl_71
+  - first:
+      213: 1330510770347392398
+    second: idle_crawl_72
+  - first:
+      213: -6644468085570661591
+    second: idle_crawl_73
+  - first:
+      213: 1807792832111739894
+    second: idle_crawl_74
+  - first:
+      213: -1694064447211257161
+    second: idle_crawl_75
+  - first:
+      213: 7252273446931671622
+    second: idle_crawl_76
+  - first:
+      213: -8829960453161614435
+    second: idle_crawl_77
+  - first:
+      213: -2970174256739182209
+    second: idle_crawl_78
+  - first:
+      213: 2639129046965542654
+    second: idle_crawl_79
+  - first:
+      213: -3285842794451099681
+    second: idle_crawl_80
+  - first:
+      213: -7554973206253216802
+    second: idle_crawl_81
+  - first:
+      213: 3577490599451730527
+    second: idle_crawl_82
+  - first:
+      213: 1680192670118327680
+    second: idle_crawl_83
+  - first:
+      213: 1278314867941961454
+    second: idle_crawl_84
+  - first:
+      213: 6261253547518600481
+    second: idle_crawl_85
+  - first:
+      213: -6396310432727048097
+    second: idle_crawl_86
+  - first:
+      213: 7980951244854392682
+    second: idle_crawl_87
+  - first:
+      213: 7376351994524261408
+    second: idle_crawl_88
+  - first:
+      213: 397142712339068573
+    second: idle_crawl_89
+  - first:
+      213: -196212334446730672
+    second: idle_crawl_90
+  - first:
+      213: 3433485695810995978
+    second: idle_crawl_91
+  - first:
+      213: 1227100162528410052
+    second: idle_crawl_92
+  - first:
+      213: -230540988059958728
+    second: idle_crawl_93
+  - first:
+      213: 7941965439120022414
+    second: idle_crawl_94
+  - first:
+      213: -6809031496349773273
+    second: idle_crawl_95
+  - first:
+      213: -8285634287727186571
+    second: idle_crawl_96
+  - first:
+      213: -210779190100063989
+    second: idle_crawl_97
+  - first:
+      213: 5990404287993568365
+    second: idle_crawl_98
+  - first:
+      213: -4636035869964105243
+    second: idle_crawl_99
+  - first:
+      213: -4417381040656872341
+    second: idle_crawl_100
+  - first:
+      213: -273089238496510925
+    second: idle_crawl_101
+  - first:
+      213: -283865582257395354
+    second: idle_crawl_102
+  - first:
+      213: 2514384436649168520
+    second: idle_crawl_103
+  - first:
+      213: -7617549639163235848
+    second: idle_crawl_104
+  - first:
+      213: -151182967941554056
+    second: idle_crawl_105
+  - first:
+      213: 4156242101595064347
+    second: idle_crawl_106
+  - first:
+      213: -1722974096365837227
+    second: idle_crawl_107
+  - first:
+      213: 9046768104934821260
+    second: idle_crawl_108
+  - first:
+      213: 5690829363988077978
+    second: idle_crawl_109
+  - first:
+      213: 8326886775035857546
+    second: idle_crawl_110
+  - first:
+      213: 3670892520351772043
+    second: idle_crawl_111
+  - first:
+      213: -8260706721097398601
+    second: idle_crawl_112
+  - first:
+      213: 2615172703438366372
+    second: idle_crawl_113
+  - first:
+      213: -9025595098830242808
+    second: idle_crawl_114
+  - first:
+      213: -3221894091880647977
+    second: idle_crawl_115
+  - first:
+      213: 8015709197945156580
+    second: idle_crawl_116
+  - first:
+      213: -5073317430352092246
+    second: idle_crawl_117
+  - first:
+      213: -4617699975480018285
+    second: idle_crawl_118
+  - first:
+      213: -1422342926728672252
+    second: idle_crawl_119
+  - first:
+      213: 5324964156094644699
+    second: idle_crawl_120
+  - first:
+      213: -8227761417241903612
+    second: idle_crawl_121
+  - first:
+      213: -1480126918121232825
+    second: idle_crawl_122
+  - first:
+      213: 440915751772275902
+    second: idle_crawl_123
+  - first:
+      213: -8908341557465354606
+    second: idle_crawl_124
+  - first:
+      213: -7094714849017854032
+    second: idle_crawl_125
+  - first:
+      213: -5452254625345789679
+    second: idle_crawl_126
+  - first:
+      213: -4558718022106826152
+    second: idle_crawl_127
+  - first:
+      213: 1128310169659751377
+    second: idle_crawl_128
+  - first:
+      213: -3415337651567461376
+    second: idle_crawl_129
+  - first:
+      213: -7756297203437282884
+    second: idle_crawl_130
+  - first:
+      213: 6757353203219330272
+    second: idle_crawl_131
+  - first:
+      213: -4764261254470412072
+    second: idle_crawl_132
+  - first:
+      213: -6166184545654236409
+    second: idle_crawl_133
+  - first:
+      213: 8371528217642079739
+    second: idle_crawl_134
+  - first:
+      213: -2921219969577657356
+    second: idle_crawl_135
+  - first:
+      213: -1985265930237603509
+    second: idle_crawl_136
+  - first:
+      213: -8954300406190013600
+    second: idle_crawl_137
+  - first:
+      213: 2912018472747096087
+    second: idle_crawl_138
+  - first:
+      213: 5700050433387600915
+    second: idle_crawl_139
+  - first:
+      213: 5263418925037151843
+    second: idle_crawl_140
+  - first:
+      213: -6076076015962954863
+    second: idle_crawl_141
+  - first:
+      213: -3190738790619333801
+    second: idle_crawl_142
+  - first:
+      213: -4372435659264599056
+    second: idle_crawl_143
+  - first:
+      213: 8769264516206910747
+    second: idle_crawl_144
+  - first:
+      213: 6855760134310561395
+    second: idle_crawl_145
+  - first:
+      213: -6616829672547862479
+    second: idle_crawl_146
+  - first:
+      213: -7897046880886312740
+    second: idle_crawl_147
+  - first:
+      213: 621565306714669404
+    second: idle_crawl_148
+  - first:
+      213: 1636679740363846224
+    second: idle_crawl_149
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: idle_crawl_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6741
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c6ef6da919b3f40800000000000000
+      internalID: 5709317046840224861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_1
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 6741
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd806882a54631330800000000000000
+      internalID: 3680395658881534172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_2
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 6741
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 946d1b3aef449a0c0800000000000000
+      internalID: -4564040886904564151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_3
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 6741
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8fa61c7222a2cac0800000000000000
+      internalID: -3836325663571791989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_4
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 6741
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89751ff4a3a41be0800000000000000
+      internalID: -1507400046212712050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_5
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 6741
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7bbe8b10abeb8840800000000000000
+      internalID: 5227530865383226235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_6
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 6741
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055a14ce3ff30f570800000000000000
+      internalID: 8498362813721453904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6420
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65519201ea3311cb0800000000000000
+      internalID: -4895074497286564522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_8
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 6420
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d88357fb8ef73e00800000000000000
+      internalID: 1024567317353433300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 6420
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3753759875b4d8010800000000000000
+      internalID: 1192692315661481331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_10
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 6420
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0fa0ba6ce4feabd0800000000000000
+      internalID: -2616885037216256245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_11
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 6420
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cab37be788d2ae40800000000000000
+      internalID: 5666329359467920072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_12
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 6420
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ca49351ca22e670800000000000000
+      internalID: 8566456451031411846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_13
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 6420
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e7bb6bb9639b1c0800000000000000
+      internalID: -4487495511284417001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6099
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae63063593a1a570800000000000000
+      internalID: 8476235834939633316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_15
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 6099
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71994f4727bbe0670800000000000000
+      internalID: 8506942846412298519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_16
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 6099
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3b80b31d4c14140800000000000000
+      internalID: 4702255888869143551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_17
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 6099
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9914c35e108e6db30800000000000000
+      internalID: 4311888788092371353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_18
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 6099
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f4dff7600fb3f90800000000000000
+      internalID: -6972715687345303733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_19
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 6099
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f47aa24497131f20800000000000000
+      internalID: 3392080869881181425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_20
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 6099
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ad0cde8bf19df10800000000000000
+      internalID: 2294900364245260953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5778
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb7c907f8d777a2d0800000000000000
+      internalID: -3267511230892750917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_22
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 5778
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a51dca697cfef3c0800000000000000
+      internalID: -4323740993816029792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_23
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 5778
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d6d1ff47cc087f0800000000000000
+      internalID: -612264746453996164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_24
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 5778
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4abb702107e79af90800000000000000
+      internalID: -6941878330810975324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_25
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 5778
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f27418f1b104f0e0800000000000000
+      internalID: -2237161251013365005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_26
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 5778
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b585b4a030791e410800000000000000
+      internalID: 1504649789831862363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_27
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 5778
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 730ba44b92ac6de00800000000000000
+      internalID: 1069264242014335031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5457
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e49c07b378580bd0800000000000000
+      internalID: -2663781925574109977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_29
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 5457
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ffd50db01849cc0800000000000000
+      internalID: -3705194705678631057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_30
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 5457
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1072ab1286e996340800000000000000
+      internalID: 4857587843175425793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_31
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 5457
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a70c4b31e4a902a60800000000000000
+      internalID: 7647281827403841658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_32
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 5457
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b27a24151f1aa260800000000000000
+      internalID: 7109529137150849715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_33
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 5457
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a35d65b4dc542850800000000000000
+      internalID: 6351303443145905058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_34
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 5457
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cffd4d8514742bd30800000000000000
+      internalID: 4445694128156893180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5136
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c6f8651da95b9f10800000000000000
+      internalID: 2277512636489332416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_36
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 5136
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba000dd9703be9a0800000000000000
+      internalID: -6202810761815782725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_37
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 5136
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a478a23c05a3a30800000000000000
+      internalID: 4195754802011392534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_38
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 5136
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 528dbe9db44ff4e40800000000000000
+      internalID: 5642997464734357541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_39
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 5136
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c3342cc8c3ebdd0800000000000000
+      internalID: -2468468970500178921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_40
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 5136
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf282e3a07d15070800000000000000
+      internalID: 8093486444353957806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_41
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 5136
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7beb5e70b58e78060800000000000000
+      internalID: 6955783627169185463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4815
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c740b2bd260a9b210800000000000000
+      internalID: 1349285909818442876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_43
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 4815
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf5bad354f081760800000000000000
+      internalID: 7428704375409434568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_44
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 4815
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a9d943d521535c0800000000000000
+      internalID: -4236459682948081133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_45
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 4815
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee0c04b5885f9780800000000000000
+      internalID: -8674117026017702165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_46
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 4815
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23369fa539e4884f0800000000000000
+      internalID: -826324136829033678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_47
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 4815
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3b7d24f17ba77f0800000000000000
+      internalID: -613977054289349685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_48
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 4815
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd0c503f7d9f744a0800000000000000
+      internalID: -6609039222252388129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4494
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530b9834e751323b0800000000000000
+      internalID: -5538559484692418507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_50
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 4494
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4605518b933029ac0800000000000000
+      internalID: -3850011185011928988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_51
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 4494
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6934c11498c3480800000000000000
+      internalID: -8918102249360353613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_52
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 4494
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe394049ec08b6b70800000000000000
+      internalID: 8893343513908122607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_53
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 4494
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe4ed0d8fcf11360800000000000000
+      internalID: 7138765029945265907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_54
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 4494
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe51eccd58298d910800000000000000
+      internalID: 1862399549550499311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_55
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 4494
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2cf43805a0b842a0800000000000000
+      internalID: -6752953418388276182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4173
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697686548af15c910800000000000000
+      internalID: 1856925228939634582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_57
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 4173
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c039eadbf4f1a10800000000000000
+      internalID: 1882310845360442390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_58
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 4173
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb4f112b8d9cc760800000000000000
+      internalID: 7479526302037265397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_59
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 4173
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518d2c1a4825308d0800000000000000
+      internalID: -2881368606983923691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_60
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 4173
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b17f21ca61a16020800000000000000
+      internalID: 2333323561834344885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_61
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 4173
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1206f19f41dcb5cd0800000000000000
+      internalID: -2568233672522112991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_62
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 4173
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e62b0c243a58260800000000000000
+      internalID: 7099259894715543070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3852
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae18141d2ad36ba0800000000000000
+      internalID: -6096789583384011098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_64
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 3852
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7160c7a42337c610800000000000000
+      internalID: 1641336821726077310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_65
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 3852
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c1ffefe1220d57e0800000000000000
+      internalID: -1775260333331451448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_66
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 3852
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7569768e994d0a0800000000000000
+      internalID: -6857687109129054289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_67
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 3852
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f938b8fec7502bb0800000000000000
+      internalID: -4962870242914584071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_68
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 3852
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b22029ad10e337910800000000000000
+      internalID: 1833877650952815147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_69
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 3852
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 386002d8a29654ea0800000000000000
+      internalID: -5889185306239826301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3531
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7954f1256a56549f0800000000000000
+      internalID: -484869619855702633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_71
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 3531
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9747737b0ff2a030800000000000000
+      internalID: 3504643884694587291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_72
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 3531
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d336c0f7ce67210800000000000000
+      internalID: 1330510770347392398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_73
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 3531
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9231426ea7b1ac3a0800000000000000
+      internalID: -6644468085570661591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_74
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 3531
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f38481b002961910800000000000000
+      internalID: 1807792832111739894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_75
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 3531
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b2ca5d5c597d78e0800000000000000
+      internalID: -1694064447211257161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_76
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 3531
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a2c5a964045a460800000000000000
+      internalID: 7252273446931671622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3210
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d930e8040cda57580800000000000000
+      internalID: -8829960453161614435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_78
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 3210
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f791d0a0042d7c6d0800000000000000
+      internalID: -2970174256739182209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_79
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 3210
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efedbc0b2e110a420800000000000000
+      internalID: 2639129046965542654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_80
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 3210
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf17f833675662d0800000000000000
+      internalID: -3285842794451099681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_81
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 3210
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edbdea995e7572790800000000000000
+      internalID: -7554973206253216802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_82
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 3210
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52ae9feebcc5a130800000000000000
+      internalID: 3577490599451730527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_83
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 3210
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0853e98d45e315710800000000000000
+      internalID: 1680192670118327680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2889
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeee7ce799c7db110800000000000000
+      internalID: 1278314867941961454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_85
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 2889
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 125208c8de074e650800000000000000
+      internalID: 6261253547518600481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_86
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 2889
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f50ed20fc8dbb37a0800000000000000
+      internalID: -6396310432727048097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_87
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 2889
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a67f14f4fd802ce60800000000000000
+      internalID: 7980951244854392682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_88
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 2889
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02cdcd3be011e5660800000000000000
+      internalID: 7376351994524261408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_89
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 2889
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96fa16513fe28500800000000000000
+      internalID: 397142712339068573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_90
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 2889
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052a0c0ebe9e64df0800000000000000
+      internalID: -196212334446730672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2568
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0703388c0136af20800000000000000
+      internalID: 3433485695810995978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_92
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 2568
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9745ba819870110800000000000000
+      internalID: 1227100162528410052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_93
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 2568
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 832c48c5134fcccf0800000000000000
+      internalID: -230540988059958728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_94
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 2568
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b9d211d77873e60800000000000000
+      internalID: 7941965439120022414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_95
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 2568
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72210ab0ee57181a0800000000000000
+      internalID: -6809031496349773273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_96
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 2568
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d6935b383830d80800000000000000
+      internalID: -8285634287727186571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_97
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 2568
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b098a008179231df0800000000000000
+      internalID: -210779190100063989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2247
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c55de16f0322350800000000000000
+      internalID: 5990404287993568365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_99
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 2247
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e902d460fd79afb0800000000000000
+      internalID: -4636035869964105243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_100
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 2247
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c0a1a095f42b2c0800000000000000
+      internalID: -4417381040656872341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_101
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 2247
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33cfe63d8cac53cf0800000000000000
+      internalID: -273089238496510925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_102
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 2247
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669a695c1c18f0cf0800000000000000
+      internalID: -283865582257395354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_103
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 2247
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e8e37c253e4e220800000000000000
+      internalID: 2514384436649168520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_104
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 2247
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f135c276f6094690800000000000000
+      internalID: -7617549639163235848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1926
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87021c344e3e6edf0800000000000000
+      internalID: -151182967941554056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_106
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1926
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18c812bb20fda930800000000000000
+      internalID: 4156242101595064347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_107
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1926
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5542ae42034c618e0800000000000000
+      internalID: -1722974096365837227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_108
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1926
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d49fbd8a39c8d70800000000000000
+      internalID: 9046768104934821260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_109
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1926
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d1fddb723e9fe40800000000000000
+      internalID: 5690829363988077978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_110
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1926
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a09e6776b0f8370800000000000000
+      internalID: 8326886775035857546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_111
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1926
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8da43c4c41a1f230800000000000000
+      internalID: 3670892520351772043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1605
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6ce4711031c5d80800000000000000
+      internalID: -8260706721097398601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_113
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1605
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6edbec7b5fa4420800000000000000
+      internalID: 2615172703438366372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_114
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1605
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c77b7c315aeb280800000000000000
+      internalID: -9025595098830242808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_115
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1605
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2368dc4688943d0800000000000000
+      internalID: -3221894091880647977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_116
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1605
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e33a56eb058d3f60800000000000000
+      internalID: 8015709197945156580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_117
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1605
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa3e01b3da4f799b0800000000000000
+      internalID: -5073317430352092246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_118
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1605
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39afe228652aaefb0800000000000000
+      internalID: -4617699975480018285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_119
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1284
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c4c8fd4a2d24ce0800000000000000
+      internalID: -1422342926728672252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_120
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1284
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd185b5efa216e940800000000000000
+      internalID: 5324964156094644699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_121
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1284
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40eb1a4659e11dd80800000000000000
+      internalID: -8227761417241903612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_122
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1284
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746e3e6f868857be0800000000000000
+      internalID: -1480126918121232825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_123
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1284
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb4c2484a827e1600800000000000000
+      internalID: 440915751772275902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_124
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1284
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e6d694d863f5480800000000000000
+      internalID: -8908341557465354606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_125
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1284
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b70a992f628a8d90800000000000000
+      internalID: -7094714849017854032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 963
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 111a8473e43b554b0800000000000000
+      internalID: -5452254625345789679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_127
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 963
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ab62dac1e2cb0c0800000000000000
+      internalID: -4558718022106826152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_128
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 963
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dbb70b0f1098af00800000000000000
+      internalID: 1128310169659751377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_129
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 963
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00cfd4a40884a90d0800000000000000
+      internalID: -3415337651567461376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_130
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 963
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb9d3c0c9c81c5490800000000000000
+      internalID: -7756297203437282884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_131
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 963
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e47cb3bfe0f6cd50800000000000000
+      internalID: 6757353203219330272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_132
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 963
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d8522691a1f1edb0800000000000000
+      internalID: -4764261254470412072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_133
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 642
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b96c853df4d6aa0800000000000000
+      internalID: -6166184545654236409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_134
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 642
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf517b74f84ad2470800000000000000
+      internalID: 8371528217642079739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_135
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 642
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fbdb8a3aedb577d0800000000000000
+      internalID: -2921219969577657356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_136
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 642
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b419083a72be274e0800000000000000
+      internalID: -1985265930237603509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_137
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 642
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06388e4f83febb380800000000000000
+      internalID: -8954300406190013600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_138
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 642
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71857775f51996820800000000000000
+      internalID: 2912018472747096087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_139
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 642
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c11e34ba5aa1f40800000000000000
+      internalID: 5700050433387600915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 321
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36668e220ab6b0940800000000000000
+      internalID: 5263418925037151843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_141
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 321
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193e1405e017daba0800000000000000
+      internalID: -6076076015962954863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_142
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 321
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b3316a9f738b3d0800000000000000
+      internalID: -3190738790619333801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_143
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 321
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb584e1fecf153c0800000000000000
+      internalID: -4372435659264599056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_144
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 321
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d53fdad9fa2b970800000000000000
+      internalID: 8769264516206910747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_145
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 321
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3768ddec48d842f50800000000000000
+      internalID: 6855760134310561395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_146
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 321
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1383584687c4c24a0800000000000000
+      internalID: -6616829672547862479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_147
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd03a22c3bd086290800000000000000
+      internalID: -7897046880886312740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_148
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c514f6f6a5e30a800800000000000000
+      internalID: 621565306714669404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_crawl_149
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 288
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05237776d87a6b610800000000000000
+      internalID: 1636679740363846224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

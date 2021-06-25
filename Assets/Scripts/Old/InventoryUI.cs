@@ -1,8 +1,9 @@
-﻿/*
+﻿
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
+using UnityEngine.InputSystem;
 using UnityEngine.UI;
 
 
@@ -38,7 +39,7 @@ public class InventoryUI : MonoBehaviour
     void Update()
     {
 
-        if (Input.GetKeyUp(KeyCode.E)) 
+        if (Keyboard.current[Key.E].isPressed) 
         {
             inventoryUI.SetActive(!inventoryUI.activeSelf);
 
@@ -58,4 +59,3 @@ public class InventoryUI : MonoBehaviour
         }
     }
 }
-*/

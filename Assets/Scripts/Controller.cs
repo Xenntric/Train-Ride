@@ -2,12 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Controllers
+public abstract class Controller
 {
-    public abstract class Controller
-    {
-        public abstract void setup();
-        
-    }
+    public abstract void Setup();
 }
-

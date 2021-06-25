@@ -3007,10 +3007,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4b881dd65a59a5844ac85155b871db95, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  MovementController:
-    _movementSpeed: 10
-    _acceleration: 4
+  movementController:
+    movementSpeed: 8
+    acceleration: 4
   playerRigidBody: {fileID: 0}
+  playerSpriteRenderer: {fileID: 0}
+  playerAnimator: {fileID: 0}
 --- !u!114 &5808589210512457096
 MonoBehaviour:
   m_ObjectHideFlags: 0

@@ -1,11 +1,12 @@
-﻿/*
+﻿
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.EventSystems;
+using UnityEngine.InputSystem;
+
 [RequireComponent(typeof(Animator))]
 [RequireComponent(typeof(CharacterController))]
-
 public class PlayerMovement : MonoBehaviour
 {
     public CharacterController2D controller;
@@ -13,7 +14,7 @@ public class PlayerMovement : MonoBehaviour
 
     public float speed = 23f;
 
-    float horizontalMove = 0f;
+    Vector2 horizontalMove;
 
     bool crawl = false;
   
@@ -28,19 +29,21 @@ public class PlayerMovement : MonoBehaviour
 
     }
 
+    public void OnMove(InputAction.CallbackContext context)
+    {
+        horizontalMove = context.ReadValue<Vector2>();
+    }
     // Update is called once per frame
     void Update()
     {
-
-        horizontalMove = Input.GetAxisRaw("Horizontal") * speed;
-
-
-        animator.SetFloat("Speed", Mathf.Abs(horizontalMove));
+    //horizontalMove.x = Input.GetAxisRaw("Horizontal") * speed;
+    
+        animator.SetFloat("Speed", Mathf.Abs(horizontalMove.x));
 
 
         //keep enabling crawling when left ctrl is pressed and disable when pressed again 
 
-        if (Input.GetKeyUp(KeyCode.LeftControl))
+        if (Keyboard.current[Key.LeftCtrl].wasPressedThisFrame)
         {
             if (!crawl)
             {
@@ -73,10 +76,10 @@ public class PlayerMovement : MonoBehaviour
     void FixedUpdate()
     {
 
-        controller.Move(horizontalMove * Time.fixedDeltaTime, crawl, false);
+        controller.Move(horizontalMove.x * Time.fixedDeltaTime, crawl, false);
 
 
-        if (Input.GetKey(KeyCode.LeftShift) && Input.GetKey(KeyCode.A) || Input.GetKey(KeyCode.LeftShift) && Input.GetKey(KeyCode.D))
+        if ( Keyboard.current[Key.LeftShift].isPressed && Keyboard.current[Key.A].isPressed || Keyboard.current[Key.LeftShift].isPressed && Keyboard.current[Key.D].isPressed)
         {
 
             speed = 23 * 2f;
@@ -93,4 +96,3 @@ public class PlayerMovement : MonoBehaviour
        
     }
 }
-*/

@@ -32,7 +32,6 @@ public class PlayerDriver : MonoBehaviour
 
     public void OnMove(InputAction.CallbackContext context)
     {
-
         animationController.WalkingContext(context, playerAnimator, playerRigidBody, movementController.GetNewDirection(_movementVector, _playerScale));
         
         _movementVector =  context.ReadValue<Vector2>();

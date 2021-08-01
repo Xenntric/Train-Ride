@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/contentModel.xml
+/projectSettingsUpdater.xml
+/.idea.FMP 2020.3.1.5f2.iml
+# Datasource local storage ignored files
+/../../../../../../:\Julius Unity\FMP 2020.3.1.5f2\.idea\.idea.FMP 2020.3.1.5f2\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/

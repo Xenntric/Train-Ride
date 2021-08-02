@@ -5,54 +5,144 @@ using UnityEngine;
 
 public class InteractableController : MonoBehaviour
 {
-
-    public CapsuleCollider2D thisCollider;
     private static readonly int OutlineThickness = Shader.PropertyToID("_OutlineThickness");
-    private   Material m_Material;
-    public float sine;
-    [SerializeField] 
+    
+    /// PUBLIC
+    
+    [Space(10)]
+    public GameObject grabbedObject;
+   
+    
+    [Space(10)]
+    [SerializeField, Range(10, 30)] 
+    public float targetOutlineWidth;
+    public float currentOutlineWidth;
+    
+    
+    [Space(10)]
+    [SerializeField, Range(0, 10)] 
+    public float frequency;
+    [SerializeField, Range(0, 10)] 
     public float amplitude;
-
-    private GameObject _currentInteractable;
-    private bool _currentlyFuckingWith;
-    private float _startingThickness;
-
-    // Start is called before the first frame update
-    void OnEnable()
-    {
-        thisCollider = GetComponent<CapsuleCollider2D>();
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-        if (_currentlyFuckingWith)
-        { 
-            sine = (20 + (Mathf.Sin(Time.fixedTime) * amplitude));
-            Debug.Log( _currentInteractable.GetComponent<Renderer>().material.GetFloat(OutlineThickness));
-            _currentInteractable.GetComponent<Renderer>().material.SetFloat(OutlineThickness, sine);
-        }
-    }
-
+    
+    /// PRIVATE
+    
+    private int _hitboxCount;
+    
+    private float _lerp;
+    private float _time;
+    private float _sine;
+    
+    private bool _objectWithinRange;
+    private bool _lerping;
+    private bool _timeRunning;
+   
+    
     private void OnTriggerEnter2D(Collider2D other)
     {
-
-        if (other.gameObject.CompareTag("Interactable"))
+        if (other.gameObject.CompareTag("Interactable") && _hitboxCount >= 0)
         {
-            _currentlyFuckingWith = true;
-            _currentInteractable = other.gameObject;
-            
-            _startingThickness = _currentInteractable.GetComponent<Renderer>().material.GetFloat(OutlineThickness);
+            _hitboxCount++;
+            if (_hitboxCount == 1)
+            {
+                _timeRunning = true;
+                _lerp = 0;
+                grabbedObject = other.gameObject;
+                
+                _timeRunning = true;
+                _objectWithinRange = true;
+                
+                StartCoroutine(LerpIn());
+                //_startingThickness = _currentInteractable.GetComponent<Renderer>().material.GetFloat(OutlineThickness);
+                                     
+            }
         }
     }
-
-    private void OnTriggerStay2D(Collider2D other)
+    
+    IEnumerator LerpIn()
     {
+        _time = 0;
+        Debug.Log("LERPING IN");
+        while (_lerp < targetOutlineWidth)
+        {
+            if (!_objectWithinRange)
+            {
+                yield break;
+            }
+            _lerping = true;
+            //Debug.Log(time);
+            _lerp = Mathf.Lerp(0, targetOutlineWidth, _time * frequency);
+            grabbedObject.GetComponent<Renderer>().material.SetFloat(OutlineThickness, _lerp);
+           
+            yield return null;
+        }
+
+        _time = 0;
+        _lerping = false;
+        Debug.Log("DONE");
+    }
+
+    void Update()
+    {
+        if (_timeRunning)
+        {
+            _time += Time.deltaTime;
+            currentOutlineWidth = grabbedObject.GetComponent<Renderer>().material.GetFloat(OutlineThickness);
+        }
+        if (_objectWithinRange)
+        {
+            if (!_lerping)
+            {
+                _sine = targetOutlineWidth + (Mathf.Sin(_time * frequency) * amplitude);
+                //Debug.Log( _currentInteractable.GetComponent<Renderer>().material.GetFloat(OutlineThickness));
+                grabbedObject.GetComponent<Renderer>().material.SetFloat(OutlineThickness, _sine);
+                
+                
+            }
+        }
     }
 
     private void OnTriggerExit2D(Collider2D other)
     {
-        _currentlyFuckingWith = false;
+        if (_hitboxCount > 0)
+        {
+            _hitboxCount--;
+            if (_hitboxCount == 0)
+            { 
+                _objectWithinRange = false;
+                StartCoroutine(LerpOut());
+                if (!_lerping)
+                {
+                    grabbedObject = null;
+                }
+            }
+        }
+    }
+    
+    IEnumerator LerpOut()
+    {
+        Debug.Log("LERPING OUT");
+        _time = 0;
+        while (currentOutlineWidth > 0)
+        {
+            if (_objectWithinRange)
+            {
+                yield break;
+            }
+            _lerping = true;
+            //Debug.Log(time);
+            _lerp = Mathf.Lerp(currentOutlineWidth, -.1F, _time * frequency);
+            grabbedObject.GetComponent<Renderer>().material.SetFloat(OutlineThickness, _lerp);
+           
+            yield return null;
+        }
+        if (_objectWithinRange)
+        {
+            yield break;
+        }
+        _lerping = false;
+        _timeRunning = false;
+       
+        Debug.Log("DONE");
     }
 }

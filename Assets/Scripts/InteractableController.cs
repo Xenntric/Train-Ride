@@ -46,7 +46,7 @@ public class InteractableController : MonoBehaviour
             if (_hitboxCount == 1)
             {
                 _timeRunning = true;
-                _lerp = 0;
+                _lerp = currentOutlineWidth;
                 grabbedObject = other.gameObject;
                 
                 _timeRunning = true;
@@ -111,10 +111,6 @@ public class InteractableController : MonoBehaviour
             { 
                 _objectWithinRange = false;
                 StartCoroutine(LerpOut());
-                if (!_lerping)
-                {
-                    grabbedObject = null;
-                }
             }
         }
     }
@@ -123,7 +119,7 @@ public class InteractableController : MonoBehaviour
     {
         Debug.Log("LERPING OUT");
         _time = 0;
-        while (currentOutlineWidth > 0)
+        while (currentOutlineWidth >= 0)
         {
             if (_objectWithinRange)
             {
@@ -140,9 +136,10 @@ public class InteractableController : MonoBehaviour
         {
             yield break;
         }
+        grabbedObject.GetComponent<Renderer>().material.SetFloat(OutlineThickness, -.1F);
         _lerping = false;
         _timeRunning = false;
-       
+        grabbedObject = null;
         Debug.Log("DONE");
     }
 }

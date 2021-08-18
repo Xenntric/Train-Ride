@@ -187,7 +187,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 4
-      y: 2110
+      y: 3618
       width: 17
       height: 1153
     spriteID: 9372959654b721b49b0e628dc9c6641d
@@ -200,7 +200,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: -1229, y: 2110}
+    uvTransform: {x: -1229, y: 3618}
   - name: Ellipse 1 copy
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -531,6 +531,28 @@ ScriptedImporter:
     tessellationDetail: 0
     parentGroupIndex: -1
     uvTransform: {x: 4, y: 3}
+  - name: Rectangle 4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2110
+      width: 81
+      height: 1500
+    spriteID: 952d88511e4e3504788f2ee3d3b35f1b
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -2125, y: 2110}
   platformSettings:
   - name: DefaultTexturePlatform
     overridden: 0
@@ -572,6 +594,13 @@ ScriptedImporter:
   characterMode: 1
   mosaicPSDLayers: []
   rigPSDLayers:
+  - name: Rectangle 4
+    spriteName: Rectangle 4
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 952d88511e4e3504788f2ee3d3b35f1b
+    layerID: 104
+    mosaicPosition: {x: 4, y: 2110}
   - name: Window Borders
     spriteName: 
     isGroup: 1
@@ -582,28 +611,28 @@ ScriptedImporter:
   - name: Rounded Rectangle 2
     spriteName: Rounded Rectangle 2
     isGroup: 0
-    parentIndex: 0
+    parentIndex: 1
     spriteID: 72509eb451b54684db763cc361554868
     layerID: 26
     mosaicPosition: {x: 14399, y: 4}
   - name: Rounded Rectangle 2
     spriteName: Rounded Rectangle 2_1
     isGroup: 0
-    parentIndex: 0
+    parentIndex: 1
     spriteID: 8d56617fa8a1dc94598db577b2d436a0
     layerID: 25
     mosaicPosition: {x: 14399, y: 603}
   - name: Rounded Rectangle 2
     spriteName: Rounded Rectangle 2_2
     isGroup: 0
-    parentIndex: 0
+    parentIndex: 1
     spriteID: 0a683164e1481c94d92e5bc291eca5dc
     layerID: 24
     mosaicPosition: {x: 4, y: 1511}
   - name: Rounded Rectangle 3
     spriteName: Rounded Rectangle 3
     isGroup: 0
-    parentIndex: 0
+    parentIndex: 1
     spriteID: 2a759d35a0a670f4488f069c226db0d3
     layerID: 27
     mosaicPosition: {x: 12290, y: 4}
@@ -617,28 +646,28 @@ ScriptedImporter:
   - name: Shape 1
     spriteName: Shape 1
     isGroup: 0
-    parentIndex: 5
+    parentIndex: 6
     spriteID: 9372959654b721b49b0e628dc9c6641d
     layerID: 31
-    mosaicPosition: {x: 4, y: 2110}
+    mosaicPosition: {x: 4, y: 3618}
   - name: Ellipse 1 copy
     spriteName: Ellipse 1 copy
     isGroup: 0
-    parentIndex: 5
+    parentIndex: 6
     spriteID: 29292cdc1f93ce8469e9a2b7c3fc4693
     layerID: 32
     mosaicPosition: {x: 15906, y: 4}
   - name: Ellipse 1
     spriteName: Ellipse 1
     isGroup: 0
-    parentIndex: 5
+    parentIndex: 6
     spriteID: 80d8db2ed9a97614b843997f984f9494
     layerID: 29
     mosaicPosition: {x: 15906, y: 603}
   - name: Rectangle 2 copy
     spriteName: Rectangle 2 copy
     isGroup: 0
-    parentIndex: 5
+    parentIndex: 6
     spriteID: 19cb3339b1ad61d4f91fce743807c891
     layerID: 73
     mosaicPosition: {x: 13356, y: 4}
@@ -652,77 +681,77 @@ ScriptedImporter:
   - name: Rounded Rectangle 1
     spriteName: Rounded Rectangle 1
     isGroup: 0
-    parentIndex: 10
+    parentIndex: 11
     spriteID: 685bddd05b7f8934280115d7192723d3
     layerID: 19
     mosaicPosition: {x: 15906, y: 410}
   - name: Rounded Rectangle 1
     spriteName: Rounded Rectangle 1_1
     isGroup: 0
-    parentIndex: 10
+    parentIndex: 11
     spriteID: f205cffe1e263b347b2385f2c24f5e16
     layerID: 14
     mosaicPosition: {x: 15906, y: 994}
   - name: Rounded Rectangle 1
     spriteName: Rounded Rectangle 1_2
     isGroup: 0
-    parentIndex: 10
+    parentIndex: 11
     spriteID: 45701cbe9442f1f4aadc687d4baa811b
     layerID: 13
     mosaicPosition: {x: 15906, y: 1122}
   - name: Rounded Rectangle 1
     spriteName: Rounded Rectangle 1_3
     isGroup: 0
-    parentIndex: 10
+    parentIndex: 11
     spriteID: dc118671b6fa8214ca6b3233297225bb
     layerID: 12
     mosaicPosition: {x: 15906, y: 1250}
   - name: Rounded Rectangle 1
     spriteName: Rounded Rectangle 1_4
     isGroup: 0
-    parentIndex: 10
+    parentIndex: 11
     spriteID: 15d400c01657788498a923201c4bbd5e
     layerID: 11
     mosaicPosition: {x: 15906, y: 1378}
   - name: Rounded Rectangle 1
     spriteName: Rounded Rectangle 1_5
     isGroup: 0
-    parentIndex: 10
+    parentIndex: 11
     spriteID: 3595495314449d8439060023b9af198f
     layerID: 10
     mosaicPosition: {x: 13356, y: 1158}
   - name: Rounded Rectangle 1
     spriteName: Rounded Rectangle 1_6
     isGroup: 0
-    parentIndex: 10
+    parentIndex: 11
     spriteID: cc7ee9ef37ffe9a4497c18bb4a857437
     layerID: 9
     mosaicPosition: {x: 13826, y: 1158}
   - name: Rounded Rectangle 1
     spriteName: Rounded Rectangle 1_7
     isGroup: 0
-    parentIndex: 10
+    parentIndex: 11
     spriteID: 13ee28d366133c649a5c70319048a523
     layerID: 8
     mosaicPosition: {x: 13356, y: 1286}
   - name: Rounded Rectangle 1
     spriteName: Rounded Rectangle 1_8
     isGroup: 0
-    parentIndex: 10
+    parentIndex: 11
     spriteID: b755a486c112fd84d881aa5cffa2fd96
     layerID: 5
     mosaicPosition: {x: 13826, y: 1286}
   - name: Rectangle 3
     spriteName: Rectangle 3
     isGroup: 0
-    parentIndex: 10
+    parentIndex: 11
     spriteID: 93c7c90a3e0e1c547b7d64838d9a9ed6
     layerID: 45
     mosaicPosition: {x: 13356, y: 1414}
   - name: Rectangle 1
     spriteName: Rectangle 1
     isGroup: 0
-    parentIndex: 10
+    parentIndex: 11
     spriteID: 46255413f3fcd644a88f9fd611378434
     layerID: 7
     mosaicPosition: {x: 1511, y: 1511}

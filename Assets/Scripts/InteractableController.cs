@@ -11,7 +11,8 @@ public class InteractableController : MonoBehaviour
     
     [Space(10)]
     public GameObject grabbedObject;
-   
+
+    public bool objectNabbed;
     
     [Space(10)]
     [SerializeField, Range(10, 30)] 
@@ -33,7 +34,7 @@ public class InteractableController : MonoBehaviour
     private float _time;
     private float _sine;
     
-    private bool _objectWithinRange;
+    public bool objectWithinRange;
     private bool _lerping;
     private bool _timeRunning;
    
@@ -50,7 +51,7 @@ public class InteractableController : MonoBehaviour
                 grabbedObject = other.gameObject;
                 
                 _timeRunning = true;
-                _objectWithinRange = true;
+                objectWithinRange = true;
                 
                 StartCoroutine(LerpIn());
                 //_startingThickness = _currentInteractable.GetComponent<Renderer>().material.GetFloat(OutlineThickness);
@@ -62,10 +63,10 @@ public class InteractableController : MonoBehaviour
     IEnumerator LerpIn()
     {
         _time = 0;
-        Debug.Log("LERPING IN");
+        //Debug.Log("LERPING IN");
         while (_lerp < targetOutlineWidth)
         {
-            if (!_objectWithinRange)
+            if (!objectWithinRange)
             {
                 yield break;
             }
@@ -79,7 +80,7 @@ public class InteractableController : MonoBehaviour
 
         _time = 0;
         _lerping = false;
-        Debug.Log("DONE");
+        //Debug.Log("DONE");
     }
 
     void Update()
@@ -89,7 +90,7 @@ public class InteractableController : MonoBehaviour
             _time += Time.deltaTime;
             currentOutlineWidth = grabbedObject.GetComponent<Renderer>().material.GetFloat(OutlineThickness);
         }
-        if (_objectWithinRange)
+        if (objectWithinRange)
         {
             if (!_lerping)
             {
@@ -109,7 +110,7 @@ public class InteractableController : MonoBehaviour
             _hitboxCount--;
             if (_hitboxCount == 0)
             { 
-                _objectWithinRange = false;
+                objectWithinRange = false;
                 StartCoroutine(LerpOut());
             }
         }
@@ -117,11 +118,11 @@ public class InteractableController : MonoBehaviour
     
     IEnumerator LerpOut()
     {
-        Debug.Log("LERPING OUT");
+        //Debug.Log("LERPING OUT");
         _time = 0;
         while (currentOutlineWidth >= 0)
         {
-            if (_objectWithinRange)
+            if (objectWithinRange)
             {
                 yield break;
             }
@@ -132,7 +133,7 @@ public class InteractableController : MonoBehaviour
            
             yield return null;
         }
-        if (_objectWithinRange)
+        if (objectWithinRange)
         {
             yield break;
         }
@@ -140,6 +141,6 @@ public class InteractableController : MonoBehaviour
         _lerping = false;
         _timeRunning = false;
         grabbedObject = null;
-        Debug.Log("DONE");
+        //Debug.Log("DONE");
     }
 }
